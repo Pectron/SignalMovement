@@ -1,0 +1,203 @@
+Waiting on threads to park on joinable thread list timed out.
+n only be called from the main thread.
+Constructors and field initializers will be executed from the loading thread when loading a scene.
+Don't use this function in the constructor or field initializers, instead move initialization code to the Awake or Start function.
+
+ raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+BITalino
+BITalino
+BITalino
+BITalino
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 1
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 1
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+BITalino
+BITalino
+BITalino
+BITalino
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 1
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 1
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+BITalino
+BITalino
+BITalino
+BITalino
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 1
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 1
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+TimeoutBITalino
+BITalino
+BITalino
+BITalino
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 1
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 1
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+BITalino
+BITalino
+BITalino
+BITalino
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 1
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 1
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+BITalino
+BITalino
+BITalino
+BITalino
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 1
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 1
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+BITalino
+BITalino
+BITalino
+BITalino
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 1
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 1
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+BITalino
+BITalino
+BITalino
+BITalino
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 1
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 1
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+BITalino
+BITalino
+BITalino
+BITalino
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 1
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 1
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+BITalino
+BITalino
+BITalino
+BITalino
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 1
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 1
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+Waiting on threads to park on joinable thread list timed out.
+onInterrupt
+BITalino
+BITalino
+BITalino
+BITalino
+BITalino
+BITalino
+BITalino
+BITalino
+BITalino
+BITalino
+BITalino
+BITalino
+BITalino
+BITalino
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 1
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 1
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+BITalino
+BITalino
+BITalino
+BITalino
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 1
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 1
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+BITalino
+BITalino
+BITalino
+BITalino
+BITalino
+BITalino
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 1
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 1
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+BITalino
+BITalino
+BITalino
+BITalino
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 1
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 1
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+Waiting on threads to park on joinable thread list timed out.
+onInterrupt
