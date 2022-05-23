@@ -19,14 +19,14 @@ public class menuControl : MonoBehaviour
         if (bio != null)
         {
             _bioGadget = bio.GetComponent<PhysiologySignalsManager>();
-            _bioGadget.NewMarker("Entrou no Menu Gameplay");
+            _bioGadget.NewMarker("GM_START_MENU");
         }
     }
 
     public void CarregarPassive()
     {
         if (_bioGadget != null)
-            _bioGadget.NewMarker("Entrou no Modo Passive");
+            _bioGadget.NewMarker("GM_START_PASSIVE");
         PlayerPrefs.SetInt("tempo", timeGameplay);
         SceneManager.LoadScene("Passive");
     }
@@ -34,7 +34,7 @@ public class menuControl : MonoBehaviour
     public void CarregarMedium()
     {
         if (_bioGadget != null)
-            _bioGadget.NewMarker("Entrou no Modo Medium");
+            _bioGadget.NewMarker("GM_START_MEDIUM");
         PlayerPrefs.SetInt("tempo", timeGameplay);
         SceneManager.LoadScene("Medium");
     }
@@ -42,7 +42,7 @@ public class menuControl : MonoBehaviour
     public void CarregarAction()
     {
         if (_bioGadget != null)
-            _bioGadget.NewMarker("Entrou no Modo Action");
+            _bioGadget.NewMarker("GM_START_ACTION");
         PlayerPrefs.SetInt("tempo", timeGameplay);
         SceneManager.LoadScene("Action");
     }
@@ -50,19 +50,23 @@ public class menuControl : MonoBehaviour
     public void CarregarMega()
     {
         if (_bioGadget != null)
-            _bioGadget.NewMarker("Entrou no Modo Mega");
+            _bioGadget.NewMarker("GM_START_MEGA");
         PlayerPrefs.SetInt("tempo", timeGameplay);
         SceneManager.LoadScene("MegaAction");
     }
 
     public void CarregarPraticar()
     {
+        if (_bioGadget != null)
+            _bioGadget.NewMarker("GM_START_PRATIQUE");
+
         SceneManager.LoadScene("Pratique");
     }
 
     public void Exit()
     {
-        _bioGadget.NewMarker("Acabou Gameplay");
-        SceneManager.LoadScene("Questionnaire_PM");
+        if (_bioGadget != null)
+            _bioGadget.NewMarker("GM_START_EXIT");
+        SceneManager.LoadScene("EndLabRecorder");
     }
 }

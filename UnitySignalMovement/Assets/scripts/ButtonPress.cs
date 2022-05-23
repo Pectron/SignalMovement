@@ -41,7 +41,7 @@ public class ButtonPress : MonoBehaviour
             if (_bioGadget != null)
             {
                 //clicou mandar sinal
-                _bioGadget.NewMarker("Clicou Butao Parede");
+                _bioGadget.NewMarker("AC_WALLBUTTON");
             }
             
             if(apenasUmClick)

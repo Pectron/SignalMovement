@@ -57,7 +57,7 @@ public class controlBloco : MonoBehaviour
 
             //passou mandar sinal
             if (_bioGadget != null)
-                _bioGadget.NewMarker("Desviou-se da Parede Vermelha");
+                _bioGadget.NewMarker("AC_DODGEREDWALL");
             //
 
             Debug.Log("desvouuu");
@@ -80,7 +80,7 @@ public class controlBloco : MonoBehaviour
     {
         //colidiu mandar sinal
         if (_bioGadget != null)
-            _bioGadget.NewMarker("colidiu com Parede Vermelha");
+            _bioGadget.NewMarker("AC:COLLIDREDWALL");
 
         if (tutorialScene != null)
             tutorialScene.ResetIndexValorTut(1);

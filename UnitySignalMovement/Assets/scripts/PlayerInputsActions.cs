@@ -64,7 +64,7 @@ public class PlayerInputsActions : MonoBehaviour
 
         //clicou mandar sinal
         if (_bioGadget != null)
-            _bioGadget.NewMarker("clicou no Direito TrackButton");
+            _bioGadget.NewMarker("AC_LETTERBUTTONRIGHT");
     }
 
     public void OnL_Button()
@@ -80,7 +80,7 @@ public class PlayerInputsActions : MonoBehaviour
 
         //clicou mandar sinal
         if (_bioGadget != null)
-            _bioGadget.NewMarker("clicou no Esquerdo TrackButton");
+            _bioGadget.NewMarker("AC_LETTERBUTTONLEFT");
     }
 
     public void OnX_Button()
@@ -96,7 +96,7 @@ public class PlayerInputsActions : MonoBehaviour
 
         //clicou mandar sinal
         if (_bioGadget != null)
-            _bioGadget.NewMarker("clicou no Esquerdo TrackButton");
+            _bioGadget.NewMarker("AC_LETTERBUTTONLEFT");
     }
 
     public void OnA_Button()
@@ -112,7 +112,7 @@ public class PlayerInputsActions : MonoBehaviour
 
         //clicou mandar sinal
         if (_bioGadget != null)
-            _bioGadget.NewMarker("clicou no Direito TrackButton");
+            _bioGadget.NewMarker("AC_LETTERBUTTONRIGHT");
     }
 
 }

@@ -54,7 +54,7 @@ public class Gun : MonoBehaviour
 
         //tiro mandar sinal
         if (_bioGadget != null)
-            _bioGadget.NewMarker("clicou no TriggerButton (disparo)");
+            _bioGadget.NewMarker("AC_TRIGGERSHOT");
     }
 
     public void Hit()

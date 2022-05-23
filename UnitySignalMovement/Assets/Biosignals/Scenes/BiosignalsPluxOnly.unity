@@ -1532,7 +1532,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 42f6a5f2a177ae14badbe859d5c565d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lslStreamName: MarkerStream
+  lslStreamName: MarkerStream_SignalMoments
   lslStreamType: LSL_Marker
 --- !u!850595691 &1924695315
 LightingSettings:

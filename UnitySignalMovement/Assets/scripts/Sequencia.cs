@@ -2,7 +2,6 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using UnityEngine.SceneManagement;
 
 public class Sequencia : MonoBehaviour
 {
@@ -94,7 +93,7 @@ public class Sequencia : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //Se o tempo não tiver parado
+        //Se o tempo nï¿½o tiver parado
         if(contTime.GetStopCount() == false)
         {
             VerificarCubosVazios();
@@ -109,7 +108,7 @@ public class Sequencia : MonoBehaviour
         }
     }
     
-    void resetCube() //Destroi tudo e sequencia volta à posicao inicial
+    void resetCube() //Destroi tudo e sequencia volta ï¿½ posicao inicial
     {
         //letras
         if (transform.GetChild(0).childCount > 0)
@@ -200,7 +199,7 @@ public class Sequencia : MonoBehaviour
             ListaAlvosCubos.Add(cube);
     }
 
-    public void verifyLetterCorrectCube(string letra) //função chamada quando existe um click, e verifica se a letra de algum cubo corresponde ao botao clicado
+    public void verifyLetterCorrectCube(string letra) //funï¿½ï¿½o chamada quando existe um click, e verifica se a letra de algum cubo corresponde ao botao clicado
     {
 
         bool letraCerta = false;
